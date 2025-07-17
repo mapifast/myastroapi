@@ -1,5 +1,6 @@
 # myastroapi
 vedic astrology api for your app and website
+
 **Build Your Vedic Astrology Project in Minutes – For Free**
 
 Why pay for costly astrology solutions when you can use our reliable, maintenance-free **Vedic Astrology API**?
